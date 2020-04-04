@@ -8,18 +8,13 @@ class Assets{
   static const medium = 'assets/medium.png';
   static const medium_light = 'assets/medium_light.png';
   static const twitter= 'assets/twitter.png';
-  static const cocoapay = 'assets/works/cocoapay.png';
-  static const facelyt = 'assets/works/facelyt.png';
-  static const kharedi_now = 'assets/works/kharedi_now.png';
+  static const jobors = 'assets/works/jobors.png';
+  static const studypanda = 'assets/works/studypanda.png';
   static const covid19 = 'assets/works/covid19.png';
-  static const mydealer = 'assets/works/mydealer.png';
-  static const mynewcar = 'assets/works/mynewcar.png';
-  static const railenq = 'assets/works/railenq.png';
-  static const rajasthan_tourism = 'assets/works/rajasthan_tourism.png';
+  static const bot = 'assets/works/bot.png';
+  static const ziffyhomes = 'assets/works/ziffyhomes.png';
   static const careForceOne = 'assets/works/careForceOne.jpg';
-  static const savaari_partner = 'assets/works/savaari_partner.png';
-  static const trivz = 'assets/works/trivz.png';
+  static const housrWeb = 'assets/works/housrWeb.png';
+  static const mobuild = 'assets/works/mobuild.png';
   static const housr ='assets/works/housr.png';
-  static const vdrone = 'assets/works/vdrone.png';
-  static const wheelie_repairs = 'assets/works/wheelie_repairs.png';
 }
